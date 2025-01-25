@@ -1,0 +1,6 @@
+sentencepiece==0.1.95
+torch==2.1.0
+networkx
+tensorboardX
+pyxDamerauLevenshtein==1.7.0
+pyyaml
