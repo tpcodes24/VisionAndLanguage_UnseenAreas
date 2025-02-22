@@ -1,8 +1,3 @@
-## Link to the Paper Implemented
-https://paperswithcode.com/paper/analyzing-generalization-of-vision-and
-
-## Workflow without Images 
-(no need to download and preprocess panoramas)
 
 ### Preparation
 ```
