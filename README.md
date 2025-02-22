@@ -44,11 +44,6 @@ The `path_to_features_dir` should contain the `resnet_fourth_layer.pickle` and `
 python vln/main.py --dataset touchdown_seen --img_feat_dir 'path_to_features_dir' --config configs/4th-to-last.yaml --exp_name 4th-to-last
 ```
 
-IPYNB File
-=========
-
-The Jupyter Notebook I have used for running the code of the paper (Code for ACL 2022 paper: Schumann and Riezler, "Analyzing Generalization of Vision and Language Navigation to Unseen Outdoor Areas ") is displayed step by step. 
-The entire training results are portrayed in the output cells. 
 
 References
 =========
